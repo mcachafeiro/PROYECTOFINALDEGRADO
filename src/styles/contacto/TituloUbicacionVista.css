@@ -1,0 +1,18 @@
+.titulo-ubicacion{
+    text-align: center;
+    font-size: 25px;
+    color: var(--color-5);
+    padding-bottom: 10px;
+}
+
+@media screen and (min-width: 768px){
+
+    .titulo-ubicacion{font-size: 30px;}
+
+}
+
+@media screen and (min-width: 1024px){
+    
+    .titulo-ubicacion{font-size: 40px;}
+
+}
